@@ -1,3 +1,5 @@
+JAMES SHERRELL
+
 NetworkX
 ========
 
